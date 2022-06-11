@@ -1,0 +1,74 @@
+{
+    "artista": "Metallica",
+    "album": " Metallica (The Black Album)",
+    "descripcion": "Es el quinto álbum de estudio de la banda de Thrash metal Metallica. Fue el primer álbum de Metallica producido por Bob Rock. Recibió elogios de la crítica y se convirtió en el álbum más vendido de la banda. El disco tiene importantes éxitos como «Enter Sandman», «Sad but True», «The Unforgiven», «Wherever I May Roam» y «Nothing Else Matters». Vendió más de 500 000 copias en su primera semana en Estados Unidos, siendo por tanto uno de los más vendidos de todo el metal en general.",
+    "imagen": "https://soonatas.files.wordpress.com/2016/10/metallica-black-album.jpg",
+    "canciones": [
+        {
+            "numero": "1",
+            "titulo": "Enter Sandman",
+            "duracion": "5:29"
+        },
+        {
+            "numero": "2",
+            "titulo": "Sad but True",
+            "duracion": "5:24"
+        },
+        {
+            "numero": "3",
+            "titulo": "Holier Than Thou",
+            "duracion": "3:47"
+        },
+        {
+            "numero": "4",
+            "titulo": "The Unforgiven",
+            "duracion": "6:26"
+        },
+        {
+            "numero": "5",
+            "titulo": "Wherever I May Roam",
+            "duracion": "6:42"
+        },
+        {
+            "numero": "6",
+            "titulo": "Don't Tread on Me",
+            "duracion": "3:59"
+        },
+        {
+            "numero": "7",
+            "titulo": "Through the Never",
+            "duracion": "4:01"
+        },
+        {
+            "numero": "8",
+            "titulo": "Nothing Else Matters",
+            "duracion": "6:29"
+        },
+        {
+            "numero": "9",
+            "titulo": "Of Wolf and Man",
+            "duracion": "4:16"
+        },
+        {
+            "numero": "10",
+            "titulo": "The God That Failed",
+            "duracion": "5:05"
+        },
+        {
+            "numero": "11",
+            "titulo": "My Friend of Misery",
+            "duracion": "6:47"
+        },
+        {
+            "numero": "12",
+            "titulo": "The Struggle Within",
+            "duracion": "3:51"
+        },
+        {
+            "numero": "13",
+            "titulo": "No se",
+            "duracion": "4:05"
+        }
+
+    ]
+}
