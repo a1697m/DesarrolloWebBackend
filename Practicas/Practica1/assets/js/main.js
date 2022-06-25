@@ -11,7 +11,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
         var album = await request.json();
         return album;
     }
-
     async function printAlbum(){
         var album = await getAlbumData();
         labelArtist.innerHTML = album.artista;

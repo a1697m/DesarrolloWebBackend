@@ -1,0 +1,79 @@
+{
+    "tipo": "Laptop",
+    "diasDePromocion": "Que no termine la promocion aprobechala al 100% 23/06/22 a 28/06/22 ",
+    "descripcion": "Los mejores Equipos al Mejor precio solo en IETSMAC",
+    "imagen": "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-t530-main.png?context=bWFzdGVyfGltYWdlc3w1MjM5NXxpbWFnZS9wbmd8aW1hZ2VzL2hhMy9oOGQvOTQ1NDkzMzYzOTE5OC5wbmd8OTUyODJjMWY4ODBiNmYyZDRiZGE2YTYwYjc3NzM3MDFiZjlhYTE0ZTAzNjc4MWQ3ZDEyYTZiMTE3YzEyMDkzOQ",
+    "equipos": [
+        {
+            "numero": "1",
+            "pantalla": "13",
+            "procesador": "INTEL",
+            "marca": "ASUS",
+            "rentroIluminado": "Si" 
+        },
+        {
+            "numero": "2",
+            "pantalla": "15",
+            "procesador": "AMD",
+            "marca": "DELL",
+            "rentroIluminado": "Si"  
+        },
+        {
+            "numero": "3",
+            "pantalla": "17",
+            "procesador": "AMD",
+            "marca": "DELL",
+            "rentroIluminado":  "No"
+        },
+        {
+            "numero": "4",
+            "pantalla": "15",
+            "procesador": "AMD",
+            "marca": "ACER",
+            "rentroIluminado": "Si"  
+        },
+        {
+            "numero": "5",
+            "pantalla": "13",
+            "procesador": "INTEL",
+            "marca": "HP",
+            "rentroIluminado": "No"  
+        },
+        {
+            "numero": "6",
+            "pantalla": "13",
+            "procesador": "AMD",
+            "marca": "HP",
+            "rentroIluminado": "Si"  
+        },
+        {
+            "numero": "7",
+            "pantalla": "16",
+            "procesador": "INTEL",
+            "marca": "HP",
+            "rentroIluminado": "Si" 
+        },
+        {
+            "numero": "8",
+            "pantalla": "17",
+            "procesador": "INTEL",
+            "marca": "LENOVO",
+            "rentroIluminado": "No" 
+        },
+        {
+            "numero": "9",
+            "pantalla": "13",
+            "procesador": "AMD",
+            "marca": "MSI",
+            "rentroIluminado": "Si"
+        },
+        {
+            "numero": "10",
+            "pantalla": "15",
+            "procesador": "INTEL",
+            "marca": "LENOVO, THINKPAD",
+            "rentroIluminado": "Semi-Iluminado"
+        }
+       
+    ]
+}
